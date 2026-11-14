@@ -10,6 +10,7 @@ const LOGOS = [
   ['jain aircon', '/assets/clients/jain-aircon.webp'],
   ['triple r', '/assets/clients/triple-r-india.webp'],
   ['zenolex', '/assets/clients/zenolex-agritech.webp'],
+  ['snr infra', '/assets/clients/snr-infra.webp'],
   ['vyshnavi', '/assets/clients/vyshnavi-analytical.webp'],
   ['yokesh', '/assets/clients/yokesh-enterprises.webp'],
   ['shivani bhavani', '/assets/clients/shivani-bhavani-fasteners.webp'],

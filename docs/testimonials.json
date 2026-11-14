@@ -1,6 +1,6 @@
 {
   "updated_month": "2026-11",
-  "count": 4,
+  "count": 5,
   "testimonials": [
     {
       "id": "329237000003505005",
@@ -23,6 +23,17 @@
       "rating": 5,
       "quote": "We are extremely pleased with the bookkeeping and accounting services provided by Cornerstone. Their professionalism, commitment, accuracy, and timely support in maintaining our financial records have been commendable.",
       "created": "2026-11-14T05:53:22+05:30"
+    },
+    {
+      "id": "329237000003536001",
+      "name": "Nishant",
+      "designation": "Managing director",
+      "company": "The Balaram automobiles",
+      "logo": "https://cornerstonebsuite.com/assets/clients/the-balaram-automobiles.webp",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "Switching from Tally ERP to Zoho Books has been a great experience. The improved features, user-friendly interface and seamless accounting make business management easier and more efficient.",
+      "created": "2026-11-14T17:33:30+05:30"
     },
     {
       "id": "329237000003515001",

@@ -1,5 +1,50 @@
 {
-  "updated_month": "",
-  "count": 0,
-  "testimonials": []
+  "updated_month": "2026-11",
+  "count": 4,
+  "testimonials": [
+    {
+      "id": "329237000003505005",
+      "name": "Kunal",
+      "designation": "Proprietor",
+      "company": "Jain Aircon",
+      "logo": "https://cornerstonebsuite.com/assets/clients/jain-aircon.webp",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "Zoho Books has taken the guesswork out of our daily finances. Having live visibility into our receivables, stock, and GST compliance from anywhere—while staying effortlessly synced with our accountant—has been a game changer for our business.",
+      "created": "2026-11-13T20:27:45+05:30"
+    },
+    {
+      "id": "329237000003522001",
+      "name": "S. Janaki Ram",
+      "designation": "Managing Director",
+      "company": "Triple R India Private Limited",
+      "logo": "https://cornerstonebsuite.com/assets/clients/triple-r-india.webp",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "We are extremely pleased with the bookkeeping and accounting services provided by Cornerstone. Their professionalism, commitment, accuracy, and timely support in maintaining our financial records have been commendable.",
+      "created": "2026-11-14T05:53:22+05:30"
+    },
+    {
+      "id": "329237000003515001",
+      "name": "Boya Ravi Kumar",
+      "designation": "Managing Director",
+      "company": "Zenolex Agritech",
+      "logo": "https://cornerstonebsuite.com/assets/clients/zenolex-agritech.webp",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "Good communication and improving our business quickly.",
+      "created": "2026-11-13T22:12:52+05:30"
+    },
+    {
+      "id": "329237000003507001",
+      "name": "Ajit Reddy",
+      "designation": "",
+      "company": "Vyshnavi Analytical Pvt Ltd",
+      "logo": "https://cornerstonebsuite.com/assets/clients/vyshnavi-analytical.webp",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "Timely support.",
+      "created": "2026-11-13T17:05:15+05:30"
+    }
+  ]
 }

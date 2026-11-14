@@ -1,7 +1,18 @@
 {
   "updated_month": "2026-11",
-  "count": 5,
+  "count": 6,
   "testimonials": [
+    {
+      "id": "329237000003516001",
+      "name": "Nagaraju chowdary",
+      "designation": "Partner",
+      "company": "SNR INFRA",
+      "logo": "",
+      "product": "Zoho Books",
+      "rating": 5,
+      "quote": "Zoho Books helped me to manage the complete accounting process, including customer invoicing, purchase entries, vendor payments, expense tracking, bank reconciliation, GST compliance, and financial reports. Daily transactions are recorded in the system, and the data automatically reflects in receivables, payables, profit & loss, balance sheet, and GST reports, providing real-time visibility of the business finances.",
+      "created": "2026-11-13T22:23:29+05:30"
+    },
     {
       "id": "329237000003505005",
       "name": "Kunal",

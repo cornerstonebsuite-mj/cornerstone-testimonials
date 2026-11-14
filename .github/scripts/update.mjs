@@ -47,7 +47,8 @@ let raw;
 try {
   const j = JSON.parse(body);
   const out = j?.details?.output ?? j?.output ?? j;
-  raw = typeof out === 'string' ? JSON.parse(out) : out;
+  if (typeof out === 'string') { const s = out.trim(); raw = s === '' ? [] : JSON.parse(s.startsWith('[') ? s : '[' + s + ']'); }
+  else raw = Array.isArray(out) ? out : [out];
 } catch (e) { console.error('Could not parse Zoho response:', body.slice(0, 300)); process.exit(1); }
 if (!Array.isArray(raw)) { console.error('Unexpected response shape'); process.exit(1); }
 
